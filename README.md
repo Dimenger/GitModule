@@ -16,6 +16,12 @@ dimenerDS@gmail.com
 
 6. git status
 7. git add . --- все файлы (git add index.css) добавляет файлы в stage
+   7.1. git reset --- убрать файл из stage
+   7.2. git reset --hard --- все отменить, все вернуть
 8. git commit -m "fdafoafopafpas"
 9. git log / git log --oneline
-10. git push [rep_link] [branch_name]
+10. git push [rep_link] [branch_name] --- git push origen main --- сохранит изменение в основную ветку.
+11. q выход из log
+12. git branch
+13. git diff --- посмотреть измения git diff [имя файла]
+14.
