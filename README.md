@@ -24,4 +24,14 @@ dimenerDS@gmail.com
 11. q выход из log
 12. git branch
 13. git diff --- посмотреть измения git diff [имя файла]
-14.
+
+Ветки Branches
+
+main
+develop
+feature/main-page
+feature/about us
+
+1. git branch
+2. git branch develop
+3. git checkout develop --- переход на нуэную ветку
