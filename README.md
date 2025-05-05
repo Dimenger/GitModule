@@ -15,3 +15,7 @@ $ git config user.email
 dimenerDS@gmail.com
 
 6. git status
+7. git add . --- все файлы (git add index.css) добавляет файлы в stage
+8. git commit -m "fdafoafopafpas"
+9. git log / git log --oneline
+10. git push [rep_link] [branch_name]
