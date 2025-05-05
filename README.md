@@ -34,4 +34,6 @@ feature/about us
 
 1. git branch
 2. git branch develop
-3. git checkout develop --- переход на нуэную ветку
+3. git checkout develop --- переход на нужную ветку. далее все обновляем и сохраняем
+4. git push origin develop
+5. pull requests --- слияние веток через GitHub
