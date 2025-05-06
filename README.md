@@ -41,3 +41,8 @@ feature/about us
 7. git pull origin main --- подгружаем изменения из Git Hub в код на ПК.
 8. git branch -d develop --- удаление ветки через терминал.
 9. git merge --- слияние через терминал. gпереходим на main потом git merge [branch name]
+
+конфликты
+
+1. git merge --- при слиянии будет выведено меню с подсказками и действиями что делать.
+   git staus
