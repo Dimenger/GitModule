@@ -35,8 +35,9 @@ feature/about us
 1. git branch
 2. git branch develop
 3. git checkout develop --- переход на нужную ветку. далее все обновляем и сохраняем
-4. git push origin develop
+4. git push origin develop --- сохранение ветки в GitHub
 5. pull requests --- слияние веток через GitHub
 6. git checkout main --- переходим на мастер
 7. git pull origin main --- подгружаем изменения из Git Hub в код на ПК.
 8. git branch -d develop --- удаление ветки через терминал.
+9. git merge --- слияние через терминал. gпереходим на main потом git merge [branch name]
