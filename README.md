@@ -35,6 +35,7 @@ feature/about us
 1. git branch
 2. git branch develop
 3. git checkout develop --- переход на нужную ветку. далее все обновляем и сохраняем
+   3.1. git checkout -b develop --- создает новую ветку и переходит на нее
 4. git push origin develop --- сохранение ветки в GitHub
 5. pull requests --- слияние веток через GitHub
 6. git checkout main --- переходим на мастер
@@ -45,4 +46,3 @@ feature/about us
 конфликты
 
 1. git merge --- при слиянии будет выведено меню с подсказками и действиями что делать.
-   git staus
