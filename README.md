@@ -39,3 +39,4 @@ feature/about us
 5. pull requests --- слияние веток через GitHub
 6. git checkout main --- переходим на мастер
 7. git pull origin main --- подгружаем изменения из Git Hub в код на ПК.
+8. git branch -d develop --- удаление ветки через терминал.
